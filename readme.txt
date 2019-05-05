@@ -1,1 +1,1 @@
-hello vue 
+Creating a new branch is quick AND simple.
