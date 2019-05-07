@@ -1,2 +1,1 @@
-before checkout the feature
-switch the feature
+part-branch manger control list
