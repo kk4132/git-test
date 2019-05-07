@@ -1,4 +1,1 @@
-test
-one change
-two change
-master commit before
+Creating a new branch is quick AND simple.
