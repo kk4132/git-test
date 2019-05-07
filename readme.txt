@@ -4,6 +4,7 @@ test branch
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 stash 2
 =======
 stash 3
@@ -13,4 +14,8 @@ stash 3
 >>>>>>> Stashed changes
 =======
 stash 3
+>>>>>>> Stashed changes
+=======
+deving
+stash 1
 >>>>>>> Stashed changes
